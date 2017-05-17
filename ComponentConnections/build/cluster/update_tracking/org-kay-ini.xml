@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="org.kay.ini">
+    <module_version install_time="1494911677493" last="true" origin="installer" specification_version="1.0">
+        <file crc="2328714380" name="config/Modules/org-kay-ini.xml"/>
+        <file crc="931714939" name="modules/ext/PDFBox-0.7.3.jar"/>
+        <file crc="2603704560" name="modules/ext/commons-csv-1.4-sources.jar"/>
+        <file crc="2051558791" name="modules/ext/commons-csv-1.4.jar"/>
+        <file crc="4138612856" name="modules/ext/commons-csv-2.4.1.jar"/>
+        <file crc="3616914782" name="modules/ext/commons.io_2.0.1.jar"/>
+        <file crc="578517795" name="modules/ext/file-utils.jar"/>
+        <file crc="766124703" name="modules/ext/fontbox-2.0.5.jar"/>
+        <file crc="1469569403" name="modules/ext/ini4j-0.5.4-bin.zip"/>
+        <file crc="3727108605" name="modules/ext/ini4j-0.5.4-jdk14.jar"/>
+        <file crc="626233418" name="modules/ext/ini4j-0.5.4.jar"/>
+        <file crc="1400234629" name="modules/ext/pdfbox-2.0.5.jar"/>
+        <file crc="1916892340" name="modules/ext/pdfbox-app-1.8.13.jar"/>
+        <file crc="1498912846" name="modules/ext/pdfbox-app-2.0.5.jar"/>
+        <file crc="3390413654" name="modules/ext/pdfbox-tools-2.0.5.jar"/>
+        <file crc="2985708265" name="modules/ext/preflight-2.0.5.jar"/>
+        <file crc="1605516801" name="modules/ext/xmpbox-2.0.5.jar"/>
+        <file crc="615121576" name="modules/org-kay-ini.jar"/>
+    </module_version>
+</module>
